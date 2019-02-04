@@ -1,0 +1,8 @@
+What is structured programming?
+Structured programming imposes discipline on direct transfer of control. That menas control should not leave from the middle of a function
+to another function, like using a goto statement.
+
+It is this ability to create falsifiable units of programming that makes structured programming valuable today. 
+This is the reason that modern languages do not typically support unrestrained goto statements. 
+Moreover, at the architectural level,
+this is why we still consider functional decomposition to be one of our best practices.
